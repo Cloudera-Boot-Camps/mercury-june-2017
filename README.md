@@ -1,1 +1,1 @@
-# mercury-june-2017
+# mercury-june-2017* Use case: Find gravitational wavehttps://nyti.ms/2jRIEnFSource Dataset (Oracle): 500M data pointsIngest data into hadoop via different approach then query data to find gravitational wave1. sqoop + impala2. oozie + hive to automate the process3. stream processing data to get latest data
